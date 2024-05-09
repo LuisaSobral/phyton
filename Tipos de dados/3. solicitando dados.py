@@ -10,7 +10,7 @@ input ("Digite sua idade")
 input ("Digite seu peso")
 input ("Digite sua altura")
 
-print (f""nome: {nome})
+print(f""nome: {nome})
 
 
 
